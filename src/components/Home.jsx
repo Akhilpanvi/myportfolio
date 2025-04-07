@@ -8,9 +8,9 @@ import { MdKeyboardArrowRight } from "react-icons/md";
 const Home = () => {
   const bulletpoints = [
     { p: <strong>#OpenToWork</strong> },
-    { p: "Actively Seeking SDE/ Full Stack Summer’24 Intern Roles" },
-    { p: "MS CS @ New York University" },
-    { p: "Student Software Engineer at NYU-IT HSRN" },
+    { p: "Actively Seeking SDE/ Full Stack Summer’25 Intern Roles" },
+    { p: <strong>B.Tech CSE @ KL University</strong> }
+    
   ];
 
   return (
@@ -23,7 +23,7 @@ const Home = () => {
           <img
             className="rounded-full mx-auto w-1/2 md:w-2/3 border-double border-8 border-my-bg-color shadow-md hover:w-3/4 duration-1000"
             src={propic}
-            alt="Profile Pic of Jaya Sabarish Reddy R"
+            alt="Profile Pic of Akhil Panvi C"
           />
         </div>
 

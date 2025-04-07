@@ -10,25 +10,25 @@ const Education = () => {
       index: 1,
       logo: KLLogo,
       alt: "NYU Logo",
-      location: "Vijayawada, Andhra Pradesh, India",
+      location: "Vijayawada, India",
       name: "Koneru Lakshmaiah University",
       degree: "Bachelor Of Technology (B.Tech)",
       major: "Computer Science and Engineering",
       minor: "",
       gradyear: "Expected May 2027",
-      hoverColor: "text-Red-800", // Add hover color property for NYU
+      hoverColor: "text-Red-800", // Add hover color property for KLU
     },
     {
       index: 2,
       logo: LWSLogo,
       alt: "LWS Logo",
-      location: "Kakinada, Andhra Pradesh, India",
+      location: "Kakinada, India",
       name: "Little Woods School",
       degree: "Central Board of Secondary Education (CBSE)",
       major: "High School",
       minor: "",
       gradyear: "May 2020",
-      hoverColor: "text-Yellow-900", // Add hover color property for VIT
+      hoverColor: "text-Yellow-900", // Add hover color property for LWS
     },
   ];
 

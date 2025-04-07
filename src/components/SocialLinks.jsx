@@ -28,7 +28,7 @@ const SocialLinks = () => {
       id: 4,
       title: <RiContactsFill size={25} />,
       tooltip: "Download Resume",
-      href: "/Jaya_Sabarish_Reddy_R_Resume.pdf",
+      href: "/Prudhvi_Suraj-Resume.pdf",
       download: true,
     },
   ];
