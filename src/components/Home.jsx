@@ -29,11 +29,11 @@ const Home = () => {
 
         <div className="justify-center h-full md:w-2/3 mt-4 ml-8 md:ml-14 md:order-1 md:mt-0">
           <h2 className="text-4xl sm:text-7xl font-bold text-[#fdf0d5]">
-            I'm Jay
-            <span className="text-2xl sm:text-5xl text-my-bg-color">a</span>
+            I'm Akhi
+            <span className="text-2xl sm:text-5xl text-my-bg-color">l</span>
           </h2>
           <h3 className="text-1xl sm:text-4xl font-bold mt-2 text-my-bg-color">
-            Sabarish Reddy Remala
+            Akhil Panvi Chakkapalli
           </h3>
           <h4 className="text-2xl sm:text-5xl font-bold my-2 text-[#dbd8a6]">
             Software Engineer

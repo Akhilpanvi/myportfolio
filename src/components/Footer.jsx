@@ -15,7 +15,7 @@ const Footer = () => {
       </Link>
       <SocialLinks />
       <h3 className="text-1xl sm:text-1xl font-semibold m-1 text-my-bg-color group-hover:md:text-gray-500 duration-200">
-        Jaya Sabarish Reddy R &copy; 2024
+        Akhil Panvi C &copy; 2025
       </h3>
     </div>
   );
