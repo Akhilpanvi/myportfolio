@@ -19,7 +19,7 @@ const ContactMe = () => {
       <div className="m-4 my-2">
         <form
           className="flex flex-col items-center justify-center shadow-md"
-          action="https://getform.io/f/32c7c5d2-b9a8-4a97-b8ae-35f13a59c368"
+          action="https://getform.io/f/bnlqpenb"
           method="POST"
         >
           <label htmlFor="" className="mt-2 text-xl">
